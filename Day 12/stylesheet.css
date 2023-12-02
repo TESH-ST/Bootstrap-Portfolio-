@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(86, 99, 117);
+}
+
+h2{
+    margin: 40px;
+}
+
+
+
+.customNav{
+
+  background-color: blue;
+}
+
+.content{
+    background-color: transparent !important;
+}
+
+.content img{
+ 
+
+}
+
+.cardcontainer {
+    background-color: turquoise
+}
