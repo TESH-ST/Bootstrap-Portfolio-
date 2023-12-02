@@ -1,16 +1,40 @@
 body {
-    background-color: rgb(86, 99, 117);
+    background-color: purple;
+    background: );
 }
 
 h2{
     margin: 40px;
+    text-align: center;
 }
 
+nav img {border-radius: 50%;}
 
+
+
+
+
+.customTop{ 
+    margin: 40px;
+    padding: 40px;
+    background-color: black;
+    border-radius: 40%;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 231);
+    color: bisque
+}
 
 .customNav{
 
-  background-color: blue;
+  background-color: black !important;
+  color: bisque ;
+}
+
+a{
+    color: bisque !important;
+}
+p{
+    color: bisque;
 }
 
 .content{
@@ -23,5 +47,29 @@ h2{
 }
 
 .cardcontainer {
-    background-color: turquoise
+    margin: 40p;
+}
+
+
+.valueProp{
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+.valueProp img { 
+    width: 500px;
+    height: 300px;
+}
+
+
+footer{
+    margin: 50px;
+    padding: 90px;
+}
+footer img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid white;
 }
