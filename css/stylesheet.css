@@ -1,6 +1,5 @@
 body {
-    background-color: purple;
-    background: );
+    background-color: teal;    
 }
 
 h2{
@@ -12,20 +11,16 @@ nav img {border-radius: 50%;}
 
 
 
-
-
 .customTop{ 
     margin: 40px;
     padding: 40px;
     background-color: black;
-    border-radius: 40%;
     text-align: center;
     border: 1px solid rgb(231, 231, 231);
     color: bisque
 }
 
 .customNav{
-
   background-color: black !important;
   color: bisque ;
 }
@@ -37,8 +32,15 @@ p{
     color: bisque;
 }
 
-.content{
-    background-color: transparent !important;
+.card{
+    background-color: black;
+    border: 1px solid white;
+}
+.card a{
+    border: 1px solid white;
+    background-color: black;
+   display: flex;
+   justify-content: center;
 }
 
 .content img{
@@ -58,18 +60,38 @@ p{
 }
 
 .valueProp img { 
-    width: 500px;
-    height: 300px;
+    width: 300px;
+    height: 200px;
 }
 
 
-footer{
+.end{
     margin: 50px;
     padding: 90px;
 }
-footer img{
+.end img{
     width: 200px;
     height: 200px;
     border-radius: 50%;
     border: 1px solid white;
 }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    
+  }
