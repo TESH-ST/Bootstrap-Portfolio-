@@ -7,7 +7,7 @@ h2{
     text-align: center;
 }
 
-nav img {border-radius: 50%;}
+
 
 
 
@@ -43,10 +43,6 @@ p{
    justify-content: center;
 }
 
-.content img{
- 
-
-}
 
 .cardcontainer {
     margin: 40p;
@@ -55,23 +51,25 @@ p{
 
 .valueProp{
     margin: 20px;
-    padding: 20px;
-    
+    padding: 10px;
+    border: 1px solid white;
 }
 
 .valueProp img { 
     width: 300px;
-    height: 200px;
+    height: 300px;
+   
 }
 
 
 .end{
     margin: 50px;
     padding: 90px;
+    border: 1px solid white;
 }
 .end img{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     border: 1px solid white;
 }
@@ -79,9 +77,10 @@ p{
 .fa {
     padding: 20px;
     font-size: 30px;
-    width: 50px;
+    width: 100px;
     text-align: center;
     text-decoration: none;
+    border-radius: 50%;
   }
 
   .fa-facebook {
