@@ -62,16 +62,18 @@ p{
 }
 
 
-.end{
+#about-me{
     margin: 50px;
     padding: 90px;
     border: 1px solid white;
+    background-color: black;
 }
-.end img{
+#about-me img{
     width: 300px;
     height: 300px;
     border-radius: 50%;
     border: 1px solid white;
+    
 }
 
 .fa {
@@ -81,6 +83,7 @@ p{
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
+
   }
 
   .fa-facebook {
