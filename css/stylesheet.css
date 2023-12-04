@@ -9,8 +9,6 @@ h2{
 
 
 
-
-
 .customTop{ 
     margin: 40px;
     padding: 40px;
@@ -19,6 +17,12 @@ h2{
     border: 1px solid rgb(231, 231, 231);
     color: bisque
 }
+
+
+nav img{
+    margin: 10px;
+}
+
 
 .customNav{
   background-color: black !important;
@@ -35,6 +39,7 @@ p{
 .card{
     background-color: black;
     border: 1px solid white;
+    margin: 10px;
 }
 .card a{
     border: 1px solid white;
