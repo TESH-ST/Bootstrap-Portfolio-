@@ -1,7 +1,5 @@
 # Bootstrap-Portfolio-
-# PREWORK-STUDY-GUIDE
-A study guide for course pre-work
-# <Your-Project-Title>
+
 
 ## Description
 
@@ -23,4 +21,18 @@ I've also integrated a CSS element of my choice to personalize my webpage's appe
 I've designed this portfolio to showcase my skills and attract potential companies seeking to utilize my expertise
 
 
+## links 
+
+bootstrap-throughout  HTML
+
+https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ
+
+
+social media link- bottom of page
+
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+
+## license
+
+MIT License
 
