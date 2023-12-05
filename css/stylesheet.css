@@ -1,0 +1,104 @@
+body {
+    background-color: teal;    
+}
+
+h2{
+    margin: 40px;
+    text-align: center;
+}
+
+
+
+.customTop{ 
+    margin: 40px;
+    padding: 40px;
+    background-color: black;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 231);
+    color: bisque
+}
+
+
+nav img{
+    margin: 10px;
+}
+
+
+.customNav{
+  background-color: black !important;
+  color: bisque ;
+}
+
+a{
+    color: bisque !important;
+}
+p{
+    color: bisque;
+}
+
+.card{
+    background-color: black;
+    border: 1px solid white;
+    margin: 10px;
+}
+.card a{
+    border: 1px solid white;
+    background-color: black;
+   display: flex;
+   justify-content: center;
+}
+
+
+.cardcontainer {
+    margin: 40p;
+}
+
+
+.valueProp{
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.valueProp img { 
+    width: 300px;
+    height: 300px;
+   
+}
+
+
+#about-me{
+    margin: 50px;
+    padding: 90px;
+    border: 1px solid white;
+    background-color: black;
+}
+#about-me img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 1px solid white;
+    
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    
+  }
